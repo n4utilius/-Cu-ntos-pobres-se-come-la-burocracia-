@@ -1,15 +1,17 @@
 ¿Cuántos pobres se come la burocracia?
- 
-La Cámara de Diputados gasta cada año, en apoyo para el pago de sus comidas, 52 millones de pesos. Ese dinero alcanzaría para incluir en el Programa de Apoyo Alimentario a, por lo menos, tres municipios completos con alta marginación de Durango o Morelos o de Yucatán.
- 
-El gobierno federal provee de distintos apoyos a sus empleados, particularmente a los  que tienen un nivel directivo con salarios que superan los 50 mil pesos mensuales. Es así que reciben vales para gasolina, seguro de gastos médicos mayores, chofer, cubren sus viáticos y uso de automóviles o apoyo para comprar los propios.
- 
-¿Cómo impactan estos gastos en el combate a la pobreza en México? Un primer acercamiento a los gastos de la burocracia de cara al dinero que se destina a programas sociales, en principio cuatro de ellos, permite concluir que se distribuye mal en las zonas de alta marginación, que es insuficiente y que el gobierno federal podría ampliar los recursos destinado al desarrollo de las zonas marginadas si fura realmente austero.
- 
-Pero no sólo eso, esta primera revisión arroja datos reveladores:
--        - En el Programa de Pobreza Alimentaria hay 8 millones 95,032 personas se están fuera de este prgroama, a pesar de su condición de pobreza.
 
--        - Ocho millones 635,682 de personas están siendo apoyadas con programas contra la pobreza, pero no reúnen las caracterísiticas para considerarse en pobreza alimentaria.
+En México la pobreza es un problema histórico y una desgracia social. A la fecha existen 50 millones de pobres en el país que son apoyados por el gobierno. Al menos eso es lo que el gobierno nos dice. “¿Cuántos pobres se come la burocracia?” busca informar sobre los principales programas para combatir la pobreza y qué porcentaje representan del presupuesto en comparación con otros programas del gobierno. Esto lo logra a través de información a nivel municipal sobre los beneficiarios de los programas y mapas sobre los municipios con mayor pobreza. Finalmente, analiza cuáles son los gastos en burocracia más onerosos y compara este gasto en términos de cuánta gente se beneficiaría si el gobierno gastara más inteligentemente sus recursos
 
--        - En el caso de adultos mayores hay 856,612 que no están siendo cubiertos por el programa creado por el gobierno, y 479,799 que sobran, porque en el municipio no existen.
+¿Qué hicimos?
 
+Análisis de padrón de beneficiarios y cruce con variables sociodemográficas
+Análisis de gastos onerosos en cuatro objetos de gasto: viáticos, alimentos, vehículos y comunicación social 
+Archivos shp a nivel municipal 
+Visualización que compara gastos onerosos contra programas sociales y detecta cuánto se podía destinar para combatir la pobreza 
+
+¿Qué falta? 
+
+Visualización de datos sobre presupuesto de egresos de la federación 
+Infographics de costo de oportunidad de presupuesto 
+Mapas interactivos 
+Sitio web integrado 
